@@ -93,7 +93,7 @@
         android:id="@+id/textView12"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Profile Name "
+        android:text="Tran Anh Tuan"
         android:textColor="#F8F5F5"
         android:textSize="24sp"
         tools:layout_editor_absoluteX="133dp"
@@ -170,7 +170,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:hint="Email : abc@gmail.com"
+            android:hint="tuana1k56@gmail.com"
             android:inputType="textPersonName" />
 
         <EditText
@@ -178,7 +178,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:hint="Phone : +99 345 678"
+            android:hint="Phone : 2050531200317"
             android:inputType="textPersonName" />
 
         <EditText
@@ -186,7 +186,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:hint="Skype: Abc"
+            android:hint="Tuan Tran"
             android:inputType="textPersonName" />
 
         <EditText
